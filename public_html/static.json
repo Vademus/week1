@@ -1,8 +1,8 @@
 {
  "headers": {
    "/*": {
-     "X-Author": "vadimus",
-     "Access-Control-Allow-Origin": "*"
-   }
- }
+      "X-Author": "vadimus",
+      "Access-Control-Allow-Origin": "*"
+    }
+  }
 }
